@@ -1,2 +1,4 @@
 # Eagle-Eye-Security-Notes
-Repo to explain the Appsec Work from Eagle^Eye
+
+My name is Justin Zeck, and this is my Reop explaining who I am and what I have been doing in secure engineering and cybersecurity. 
+
