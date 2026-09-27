@@ -6,7 +6,7 @@ If you are reading this for a security interview, treat it as architecture notes
 
 ## What Eagle^Eye is
 
-<img width="768" height="432" alt="grok-image-736fbed3-1b93-4abe-851f-8e9c7d0267ab" src="https://github.com/user-attachments/assets/258e280a-31fd-4cee-990e-eac28e3e81fd" />
+<img width="512" height="288" alt="grok-image-736fbed3-1b93-4abe-851f-8e9c7d0267ab" src="https://github.com/user-attachments/assets/513f0cdb-d5d1-490b-a1b1-aa1e8229afdd" />
 
 
 Eagle^Eye is a software service that a small team built and ran starting in 2019. The client is a large summer camp in the greater Seattle area. The camp still uses Eagle^Eye. Parents drop off and pick up students on a tight schedule.
