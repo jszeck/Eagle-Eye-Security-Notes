@@ -160,5 +160,6 @@ Later notes will cover individual pieces in more detail: the registration copy s
 
 Short version of my part: I was responsible for the path from registration tables to a band on a student's wrist, and I cared a lot about what happened when that band was scanned.
 
-<img width="1152" height="665" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/16dbb250-5511-432d-8a44-9cf62aaa4c8f" />
+<img width="900" height="520" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/7fdc5afb-ec8b-452d-82cd-5b8c23c190f5" />
+
 
