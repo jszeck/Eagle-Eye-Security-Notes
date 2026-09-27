@@ -59,7 +59,7 @@ Those objects are merged into Zebra Programming Language templates. ZPL is a sho
 - Print the text.
 - Turn black-and-white logos and images into Zebra dot instructions, as long as the detail fits 300 DPI.
 
-<img width="700" height="700" alt="grok-image-601c96b5-c9cd-45aa-9dea-83b40db474a1" src="https://github.com/user-attachments/assets/aacb4a86-bccf-44bd-a35c-157e0446a1e7" />
+<img width="512" height="512" alt="grok-image-601c96b5-c9cd-45aa-9dea-83b40db474a1" src="https://github.com/user-attachments/assets/aacb4a86-bccf-44bd-a35c-157e0446a1e7" />
 
 The merge step is a mail-merge style substitution. Field tokens in the template are replaced with values from the DTO. The output is a raw ZPL string.
 
@@ -73,7 +73,7 @@ We wrote unit tests and integration tests for this pipeline. Those tests catch s
 
 The chip on a student wristband holds the student id. That is it.
 
-<img width="800" height="800" alt="grok-image-37d753e5-321f-425c-9186-b23634d09515" src="https://github.com/user-attachments/assets/37ac8435-b1e3-42cc-a67a-9b56cb3b7de3" />
+<img width="600" height="600" alt="grok-image-37d753e5-321f-425c-9186-b23634d09515" src="https://github.com/user-attachments/assets/37ac8435-b1e3-42cc-a67a-9b56cb3b7de3" />
 
 A staff phone running the Eagle^Eye Android app reads the chip and asks the backend what to do. The same id means different things in different screens:
 
@@ -106,7 +106,7 @@ HTML form fields are strongly typed with Entity Framework. SQL calls from those 
 
 Wristbands are not encrypted. Anyone with a compatible reader can read the student id off the chip.
 
-<img width="1200" height="800" alt="grok-image-159cc5cd-2cfe-401a-9ff6-0636972885d6" src="https://github.com/user-attachments/assets/3fb79e4b-ae84-416e-9cf0-46a05756e317" />
+<img width="1000" height="666" alt="grok-image-159cc5cd-2cfe-401a-9ff6-0636972885d6" src="https://github.com/user-attachments/assets/3fb79e4b-ae84-416e-9cf0-46a05756e317" />
 
 
 Knowing a student id is not useful without a valid login to Eagle^Eye. The backend is what turns an id into a name, a location, or a pickup list. A band also has a short life. It is tied to the current session week. A copy of last week's band does not check in a student who is not registered this week.
@@ -163,6 +163,6 @@ Later notes will cover individual pieces in more detail: the registration copy s
 
 Short version of my part: I was responsible for the path from registration tables to a band on a student's wrist, and I cared a lot about what happened when that band was scanned.
 
-<img width="900" height="520" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/7fdc5afb-ec8b-452d-82cd-5b8c23c190f5" />
+<img width="700" height="404" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/7fdc5afb-ec8b-452d-82cd-5b8c23c190f5" />
 
 
