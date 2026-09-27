@@ -3,4 +3,5 @@
 
 My name is Justin Zeck, and this is my Repo explaining who I am and what I have been doing in secure engineering and cybersecurity. 
 
-<img width="1856" height="1072" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/70bf38ab-607e-4ec3-a1a2-c19a711706dd" />
+<img width="1344" height="828" alt="grok-image-c80744d1-3fe9-4ac6-8b95-b3edaa93f079" src="https://github.com/user-attachments/assets/163518a0-3ad2-432d-9bd1-14fc632c58ab" />
+
