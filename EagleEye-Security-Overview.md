@@ -159,3 +159,6 @@ This file is the map.
 Later notes will cover individual pieces in more detail: the registration copy step, the DTO and ZPL merge, the token and role model, the wristband threat model, and the fob issuance check. Those notes will stay at the level of design and reasoning. They will not include camp data, live credentials, printer vendor account details, or production source code.
 
 Short version of my part: I was responsible for the path from registration tables to a band on a student's wrist, and I cared a lot about what happened when that band was scanned.
+
+<img width="1152" height="665" alt="grok-image-a8201447-71f0-4d81-9123-b9e2fa1b21fa" src="https://github.com/user-attachments/assets/16dbb250-5511-432d-8a44-9cf62aaa4c8f" />
+
